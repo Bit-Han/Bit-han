@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hi there! I'm a passionate developer who began my coding journey 5 years ago with the fundamentals of HTML, CSS, and JavaScript. Over time, my love for programming grew, and since 2022, I've been deeply immersed in JavaScript, building exciting projects and sharpening my skills. Currently, I specialize in modern web development using React, Node.js, and Next.js, crafting efficient and scalable applications. My GitHub showcases some of the projects I've worked on, reflecting my growth and commitment to delivering quality solutions. I'm always open to collaborating, learning new technologies, and contributing to impactful projects. Let's build something awesome together! 🚀
+Hi there! I'm a passionate developer who began my coding journey 4 years ago with the fundamentals of HTML, CSS, and JavaScript. Over time, my love for programming grew, and since 2022, I've been deeply immersed in JavaScript, building exciting projects and sharpening my skills. Currently, I specialize in modern web development using React, Node.js, and Next.js, crafting efficient and scalable applications. My GitHub showcases some of the projects I've worked on, reflecting my growth and commitment to delivering quality solutions. I'm always open to collaborating, learning new technologies, and contributing to impactful projects. Let's build something awesome together! 🚀
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://ovuobaemmanuel.netlify.app/](http://https://ovuobaemmanuel.netlify.app/)
